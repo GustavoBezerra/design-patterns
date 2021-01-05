@@ -1,0 +1,52 @@
+.gradle
+/build/
+target/
+out/
+log/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+**/*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse specific files/directories
+.classpath
+.project
+.settings
+.metadata
+/bin
+*/bin
+
+# Gradle:
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Log file
+*.log
+
+
+### MAC Files ###
+.DS_Store
+*.DS_Store
+*/*.DS_Store
+
+### Banco em memória ###
+men:/
